@@ -1,0 +1,22 @@
+Possible Testing Tasks:
+    -Memory Game
+    -Arithmetic
+    -Algebra
+Baseline Models:
+    -Regular RNN,LSTM,GRU, NN
+    -Non-Bounded Sequential Models
+    -Transformers??
+
+Basic Idea:
+    -Allow for specialization of weight sections
+    -Allow for more complex thought through a non-constant computation time
+    -Optimize the learning ability of agents.
+
+COMPLETED:
+    Baseline Model!
+    FIRST MODEL
+
+TODO:
+    implement model with ac
+    implement model with pooling vector
+    train model
